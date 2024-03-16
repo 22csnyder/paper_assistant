@@ -1,0 +1,50 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+env/
+.env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+
+# Environment-specific files
+.envrc
+.env.*.local
+*.env.local
+*.config
+
+# Dependency directories
+bin/
+lib/
+include/
+
+# Compiled Python files
+*.pyz
+*.pyzw
+
+# Miscellaneous
+.DS_Store
+thumbs.db
+
